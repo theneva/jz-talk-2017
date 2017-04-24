@@ -8,7 +8,7 @@ Things that go wrong when deploying Java with Kubernetes (and how to avoid them)
 
 It's hard to walk when the earth quakes, and it's hard to run when the infrastructure doesn't rock. We've had both.
 
-FINN.no is moving about four hundred apps from a legacy deployment system to Docker and Kubernetes, and most of those are written in Java. We've failed at (and fixed) a lot of things, including common security patches and secrets in the environment, and we've improved our application code along the way. Now it's time to share our solutions to some of our mess-ups!
+FINN.no is moving about four hundred apps from a legacy deployment system to Docker and Kubernetes, and most of those are written in Java. We've failed at (and fixed) a lot of things, including common security patches and secrets in the environment, and we've improved our application code along the way. Time to share our solutions to these mess-ups!
 
 Learn how we're using Docker and Kubernetes at FINN; how we've ensured quick security patches across all Java apps; what we've spent days on to simplify the migration path for the developers; which requirements we've found useful to place on the developers; and how our code has been forced to improve through the migration.
 
