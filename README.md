@@ -16,6 +16,14 @@ Learn how we're using Docker and Kubernetes at FINN; how we've ensured quick sec
 
 You're familiar with containers on a conceptual level, and want to know what went wrong when FINN.no deployed Java apps inside them. Kubernetes is used as the case, but most lessons learned are applicable to all sorts of deployments. There's no code, but plenty of useful real-world cases!
 
+## Speaker
+
+Martin spends most of his time at FINN.no writing Java and JavaScript, and got involved in FINN's migration to Docker and Kubernetes. Some days that's fun, and some days there's craft beer after work. He runs his own server with Docker but not Kubernetes.
+
+Most of his team's stack is built from Java and Node, which puts him right in the target audience for things like company-wide common Java Docker images and their (sometimes strange) behaviour. His love for software development leads him to promote his team's interests in infrastructure discussions, but his passion for infrastructure makes him frequently side with the infrastructure team in product talk.
+
+He's done a few in-house talks to spread the love for Kubernetes and its tooling, teaches web development to final-year Bachelor students, and believes it's important to share some of FINN's experiences with the world.
+
 ## Keywords
 
 Java deployment, containers, Docker, Kubernetes, lessons learned
@@ -48,11 +56,3 @@ Java deployment, containers, Docker, Kubernetes, lessons learned
   - Have a strategy! Think about patching!
   - Containerisation forced better code
 - Questions (10 minutes)
-
-## Speaker
-
-Martin spends most of his time at FINN.no writing Java and JavaScript, and got involved in FINN's migration to Docker and Kubernetes. Some days that's fun, and some days there's craft beer after work. He runs his own server with Docker but not Kubernetes.
-
-Most of his team's stack is built from Java and Node, which puts him right in the target audience for things like company-wide common Java Docker images and their (sometimes strange) behaviour. His love for software development leads him to promote his team's interests in infrastructure discussions, but his passion for infrastructure makes him frequently side with the infrastructure team in product talk.
-
-He's done a few in-house talks to spread the love for Kubernetes and its tooling, teaches web development to final-year Bachelor students, and believes it's important to share some of FINN's experiences with the world.
